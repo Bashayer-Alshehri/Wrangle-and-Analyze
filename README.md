@@ -12,7 +12,7 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 
 In this project, I aim to practice Data Wrangling which is an important step in Data Analysis, The Dataset that I used is the tweet archive of Twitter user @dog_rates, known as WeRateDogs.
 
-This project was completed as part of Udacity's Data Analyst Nanodegree certification.
+> This project was completed as part of Udacity's Data Analyst Nanodegree certification.
 
 ## The Dataset:
 - Enhanced Twitter Archive
