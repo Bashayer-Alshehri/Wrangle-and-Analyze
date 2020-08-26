@@ -1,6 +1,6 @@
 # Wrangle-and-analyze
 Wrangle-and-analyze Twitter user @dog_rates, known as WeRateDogs.
-Bashayer Alshehri (1 Jul, 2020)
+> Bashayer Alshehri (1 Jul, 2020)
 
 
 ## Intoduction:
