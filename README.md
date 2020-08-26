@@ -29,9 +29,7 @@ Data wrangling, which consists of:
 - Gathering data
 - Assessing data
 - Cleaning data
-Storing, analyzing, and visualizing our wrangled data
-
-Reporting on 1) data wrangling efforts and 2) data analyses and visualizations
+Storing, analyzing, and visualizing our wrangled data.
 
 ## Library needed:
 - Pandas
