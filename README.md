@@ -12,6 +12,8 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 
 In this project, I aim to practice Data Wrangling which is an important step in Data Analysis, The Dataset that I used is the tweet archive of Twitter user @dog_rates, known as WeRateDogs.
 
+This project was completed as part of Udacity's Data Analyst Nanodegree certification.
+
 ## The Dataset:
 - Enhanced Twitter Archive
 > The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, I have filtered for tweets with ratings only (there are 2356).
